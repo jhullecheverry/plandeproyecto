@@ -1,0 +1,31 @@
+1. Recopilar Contenido
+Logo y branding (colores, tipografía, imágenes representativas).
+Fotografías de productos de alta calidad.
+Textos: misión, visión, valores, descripciones de productos, testimonios, contacto, etc.
+Datos de contacto (email, WhatsApp, redes sociales).
+2. Planificar la Estructura
+Secciones clave: Hero (bienvenida), productos, sobre nosotros, testimonios, contacto, etc.
+Menú de navegación claro.
+3. Referencias y Competencia
+Analiza páginas de otras marcas de cosméticos (para inspirarte y diferenciarte).
+Identifica buenas prácticas y errores a evitar.
+4. Tecnologías y Herramientas
+Framework o stack a usar (Next.js, Astro, Vite, etc.).
+Herramientas para diseño y generación de imágenes (Canva, Figma, IA).
+Hosting: ¿Dónde vas a desplegarla? (Vercel, Netlify, GitHub Pages, etc.).
+5. Dominio y Hosting
+Decide si usarás un dominio propio (ej: sammyquiceno.com).
+Verifica disponibilidad y precios si aún no tienes uno.
+6. SEO y Analítica
+Palabras clave relevantes para buscadores.
+Estructura y metadatos para SEO.
+Instalar Google Analytics o similar para medir visitas.
+7. Accesibilidad y Responsividad
+La página debe verse bien en móviles y ser accesible para todos los usuarios.
+8. Legalidad y Políticas
+Aviso de privacidad y/o cookies si recolectas datos de usuarios.
+Permisos para imágenes y textos (no usar contenido sin derechos).
+9. Control de Versiones y Colaboración
+Configura tu repositorio en GitHub con una estructura clara.
+Añade un README y una licencia apropiada.
+Define si habrá otros colaboradores y cómo trabajarás con ellos (branching, revisiones, etc.).

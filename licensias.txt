@@ -1,0 +1,17 @@
+ landing page:
+MIT License
+Muy recomendada para proyectos web y personales.
+Permite que cualquiera use, copie, modifique y distribuya tu código, incluso para fines comerciales, siempre que te den crédito.
+Es simple y ampliamente aceptada.
+
+Apache 2.0
+Similar a MIT, pero más detallada en cuanto a patentes.
+También es permisiva y adecuada para proyectos abiertos.
+
+GPL v3
+Permite uso, copia y modificación, pero obliga a que los derivados también sean open source bajo la misma licencia.
+Es ideal si quieres que cualquier mejora al código también se comparta de forma abierta.
+
+Sin licencia (All rights reserved)
+Nadie puede usar, copiar ni modificar tu código salvo que lo autorices explícitamente.
+No recomendado si quieres que la gente aprenda de tu trabajo o colabore.

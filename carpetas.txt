@@ -1,0 +1,27 @@
+sammy-quiceno-landing/
+│
+├── public/                  # Archivos públicos (imágenes, favicon, etc)
+│   ├── images/
+│   │   ├── productos/
+│   │   ├── banners/
+│   │   └── logo.png
+│   └── favicon.ico
+│
+├── src/                     # Código fuente principal
+│   ├── assets/              # Recursos: fuentes, íconos, más imágenes
+│   ├── components/          # Componentes reutilizables (Navbar, Botón, Footer)
+│   ├── layouts/             # Plantillas base para páginas
+│   ├── pages/               # Páginas principales (Home, Contacto, etc)
+│   ├── sections/            # Secciones grandes de la landing (Hero, Testimonios)
+│   ├── styles/              # Archivos CSS/SCSS/Tailwind/configuración
+│   ├── utils/               # Utilidades y helpers
+│   └── data/                # Datos estáticos (json para catálogo, testimonios, etc)
+│
+├── .gitignore               # Archivos/carpetas a ignorar por git
+├── README.md                # Documentación del proyecto
+├── package.json             # Dependencias y scripts de Node.js
+├── tsconfig.json            # Configuración de TypeScript (si usas TS)
+├── tailwind.config.js       # Configuración de Tailwind CSS (si usas)
+├── vite.config.js           # Configuración de Vite (si usas)
+├── next.config.js           # Configuración de Next.js (si usas)
+└── vercel.json              # Configuración de despliegue (opcional)

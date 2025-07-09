@@ -1,0 +1,68 @@
+# Sammy Quiceno - Landing Page  
+## Descripción del Producto
+
+La landing page de **Sammy Quiceno** será un sitio web moderno, visualmente atractivo y completamente responsivo, orientado a captar clientes para la empresa de cosméticos.  
+El objetivo principal es presentar la marca, sus valores, productos destacados, testimonios de clientes y facilitar el contacto.  
+La web estará optimizada para SEO, tendrá integración con redes sociales y formularios de contacto directo.
+
+### Características clave:
+- **Diseño profesional y alineado con la identidad de Sammy Quiceno**
+- **Secciones:** Inicio, Sobre Nosotros, Productos, Testimonios, Contacto
+- **Galería de productos y/o destacados**
+- **Formulario de contacto**
+- **Testimonios de clientes**
+- **Enlaces a redes sociales**
+- **Adaptabilidad total a dispositivos móviles**
+- **Optimización para buscadores (SEO básico)**
+- **Implementación de buenas prácticas de accesibilidad**
+
+---
+
+## Etapas de Desarrollo (2 meses)
+
+### **Semana 1: Planificación y recopilación de recursos**
+- Definición de objetivos y público objetivo
+- Investigación de referencias y competidores
+- Recopilación de imágenes, textos, logos y branding
+- Estructuración inicial del repositorio y setup de entorno
+
+### **Semana 2-3: Diseño UI/UX**
+- Diseño de wireframes y prototipo visual (Figma/Canva)
+- Definición de paleta de colores, tipografías y estilos
+- Feedback y ajustes rápidos con el cliente
+
+### **Semana 4-5: Desarrollo inicial**
+- Implementación de la estructura base del sitio y navegación
+- Desarrollo de las secciones principales: Home, Sobre Nosotros, Productos
+- Integración de imágenes y textos definitivos
+- Primeros tests de responsividad en móviles
+
+### **Semana 6: Funcionalidades y detalles**
+- Implementación del formulario de contacto y validaciones
+- Integración de testimonios y enlaces a redes sociales
+- Mejoras visuales, animaciones y detalles de UI
+- SEO básico: meta tags, títulos y descripciones
+
+### **Semana 7: Pruebas y optimización**
+- Pruebas de usabilidad y accesibilidad (móviles, tablets, desktop)
+- Optimización de velocidad y carga de imágenes
+- Revisión y feedback final con el cliente
+
+### **Semana 8: Despliegue y entrega**
+- Configuración de dominio y hosting (Vercel, Netlify, etc.)
+- Publicación del sitio web en producción
+- Entrega de manual básico de uso y administración (si aplica)
+- Cierre y retroalimentación final
+
+---
+
+### **Cronograma Resumido**
+
+| Semana | Actividad principal                                                                    |
+|--------|---------------------------------------------------------------------------------------|
+| 1      | Planificación, recopilación de recursos y setup del entorno                           |
+| 2-3    | Diseño UI/UX y prototipos                                                             |
+| 4-5    | Desarrollo base, secciones principales                                                |
+| 6      | Integración de funcionalidades, detalles y SEO                                        |
+| 7      | Pruebas, optimización y feedback final                                                |
+| 8      | Despliegue, entrega y cierre                                                          |
